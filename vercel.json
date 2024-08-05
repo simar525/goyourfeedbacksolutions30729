@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yourfeedback.solutions/$1"
+ }
+  ]
+}
